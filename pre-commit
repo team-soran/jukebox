@@ -1,0 +1,7 @@
+#!/bin/sh
+
+if [[ -z eslint ]]; then
+  npm install -g eslint
+fi
+
+eslint app/*.js app/*.jsx

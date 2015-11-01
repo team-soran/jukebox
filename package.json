@@ -1,0 +1,22 @@
+{
+  "name": "jukebox",
+  "version": "1.0.0",
+  "description": "jukebox in your laptop",
+  "main": "main.js",
+  "scripts": {},
+  "author": "Kang hyojun <iam.kanghyojun@gmail.com>",
+  "license": "GPL",
+  "devDependencies": {
+    "babel": "^4.7.16",
+    "babel-core": "^4.7.16",
+    "babel-loader": "^4.2.0",
+    "react": "^0.13.1",
+    "react-hot-loader": "^1.2.3",
+    "webpack": "^1.7.3",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "dependencies": {
+    "react": "^0.13.1"
+  }
+}
+
