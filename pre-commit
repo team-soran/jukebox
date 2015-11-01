@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [[ -z eslint ]]; then
+if [ -z eslint ]; then
   npm install -g eslint
 fi
 
