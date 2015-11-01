@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - 5.0.0
+before_install:
+  - npm install -g eslint
+install:
+  - npm install
+script:
+  - ./pre-commit
